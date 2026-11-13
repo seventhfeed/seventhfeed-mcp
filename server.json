@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.seventhfeed/seventhfeed",
+  "title": "Seventh Feed",
+  "description": "Search AI marketing, SEO, GEO, outreach and writing tools with prices, traffic and revenue.",
+  "version": "1.0.0",
+  "websiteUrl": "https://seventhfeed.com/about",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://seventhfeed.com/mcp"
+    }
+  ]
+}
