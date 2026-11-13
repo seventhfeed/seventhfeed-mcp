@@ -1,0 +1,11 @@
+{
+  "name": "seventhfeed-mcp",
+  "version": "1.0.0",
+  "description": "Search AI marketing, SEO, GEO, outreach and writing tools with prices, traffic and revenue.",
+  "mcpServers": {
+    "seventhfeed": {
+      "type": "http",
+      "url": "https://seventhfeed.com/mcp"
+    }
+  }
+}

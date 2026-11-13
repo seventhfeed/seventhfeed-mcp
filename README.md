@@ -63,6 +63,15 @@ npx skills add seventhfeed/seventhfeed-mcp
 
 or copy the folder into your agent's skills directory (for Claude Code, `~/.claude/skills/seventhfeed/`).
 
+
+### One-line prompt for any AI agent
+
+Paste into Claude Code, Cursor, Codex, or Gemini CLI:
+
+```text
+Read https://raw.githubusercontent.com/seventhfeed/seventhfeed-mcp/main/skills/seventhfeed/SKILL.md and compare AI image tools, pricing, and free tiers.
+```
+
 ## Support
 
 support@seventhfeed.com

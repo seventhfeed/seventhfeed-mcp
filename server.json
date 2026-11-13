@@ -10,5 +10,9 @@
       "type": "streamable-http",
       "url": "https://seventhfeed.com/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/seventhfeed/seventhfeed-mcp",
+    "source": "github"
+  }
 }

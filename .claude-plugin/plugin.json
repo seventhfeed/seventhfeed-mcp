@@ -1,0 +1,27 @@
+{
+  "name": "seventhfeed-mcp",
+  "version": "1.0.0",
+  "description": "Search AI marketing, SEO, GEO, outreach and writing tools with prices, traffic and revenue.",
+  "author": {
+    "name": "Seventh Feed",
+    "url": "https://seventhfeed.com"
+  },
+  "homepage": "https://seventhfeed.com/about",
+  "repository": "https://github.com/seventhfeed/seventhfeed-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "ai-image",
+    "image-tools",
+    "directory",
+    "pricing",
+    "skills",
+    "claude-code",
+    "cursor"
+  ],
+  "skills": [
+    "./skills"
+  ],
+  "mcpServers": "./.mcp.json"
+}
